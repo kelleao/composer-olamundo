@@ -1,0 +1,21 @@
+{
+    "name": "kelleao/composer-olamundo",
+    "description": "Pacote de exemplo criando no curso de composer da Treinaweb",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Kelleao\\ComposerOlamundo\\": "src/"
+        }
+    },
+    "authors": [{
+        "name": "Raquel Leao",
+        "email": "raquel179@gmail.com"
+    }],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "kelleao\\": "src/"
+        }
+    }
+}
